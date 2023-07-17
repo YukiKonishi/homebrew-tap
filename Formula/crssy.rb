@@ -1,4 +1,4 @@
-VERSION="1.1.16"
+VERSION="0.1.16"
 class Crssy < Formula
     desc ""
     homepage "https://yukikonishi.github.io/crssy/"
